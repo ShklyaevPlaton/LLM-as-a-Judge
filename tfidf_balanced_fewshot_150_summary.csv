@@ -1,0 +1,2 @@
+approach,model,test_size,successful_answers,errors,correct,accuracy_with_errors,accuracy_success_only
+tfidf_balanced_fewshot,google/gemma-4-31b-it,150,150,0,86,0.5733333333333334,0.5733333333333334
